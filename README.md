@@ -1,0 +1,3 @@
+- Hi, I’m @NyanMaury
+- I’m interested in gaming, music and programming in general.
+- I’m currently in an apprenticeship as a application developer in Switzerland.
