@@ -1,3 +1,4 @@
 - Hi, I’m @NyanMaury
-- I’m interested in gaming, music and programming in general.
-- I’m currently in an apprenticeship as a application developer in Switzerland.
+- I’m interested in gaming, anime and programming in general.
+- I do programming as a hobby and have very little experience with it.
+- I'm currently working as a system integrator in the building automation industry
