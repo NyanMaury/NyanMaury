@@ -1,4 +1,5 @@
 - Hi, I’m @NyanMaury
-- I’m interested in gaming, anime and programming in general.
+- I’m interested in gaming, anime programming and personal computers/servers in gener.
 - I do programming as a hobby and have very little experience with it.
-- I'm currently working as a system integrator in the building automation industry
+- I'm currently working as a system integrator in the building automation industry (since sept.2022) and since mai of 2025 part time in the IT-departement.
+- Having my own home lab and allways experimenting around with new stuff and continuously learning new things along the way.
